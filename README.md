@@ -29,10 +29,14 @@ To deploy an application with a MongoDB database to Heroku, you'll need to set u
   * [Deploy with Heroku and MongoDB Atlas](../04-Supplemental/MongoAtlas-Deploy.md)
 
 ## Application Description
+
+Home Page: When users landed on the home page, users can see the last workout tracker they have created ot they can create a new workout tracker.
 ![Personal Worlout Tracker](assets/images/workout-Tracker-Home.jpeg)
 
+Create Exetcise: New users can create their own new workout tracker 
 ![Personal Worlout Tracker](assets/images/Add-Exercise.jpeg)
 
+Users can select the types of workout 
 ![Personal Worlout Tracker](assets/images/select-types.jpeg)
 
 
